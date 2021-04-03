@@ -1,0 +1,692 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" GraphDirection="BottomToTop" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@43 @45 OverloadingParameters=[@37,(Type=Player Name=dealer)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1752.88666666667,391.72,125.37,25.96" Label="StandardMethod">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(@57 @12 OverloadingParameters=[@66,@59,(Type=Shoe @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="693.593333333333,447.68,105.956666666666,25.96" Label="InitializeShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(@57 @12 OverloadingParameters=[@66,@59,(Type=list @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="215.593333333333,447.68,105.956666666667,25.96" Label="InitializeShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;CalculateHand in ScoreKeeper&quot; @12 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2197,335.76,195.143333333333,25.96" Label="CalculateHand in ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;CalculateHand in ScoreKeeper&quot; @6 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1069,0,195.143333333333,25.96" Label="CalculateHand in ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;CalculateHand in ScoreKeeper&quot; @6 OverloadingParameters=[(Type=NoneType Name=hand)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="0,279.8,195.143333333333,25.96" Label="CalculateHand in ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;CalculateScore in ScoreKeeper&quot; @6 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="842.543333333333,0,196.056666666667,25.96" Label="CalculateScore in ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;CountingHelpers module&quot; @31 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="930.14,503.64,168.863333333333,25.96" Label="CountingHelpers module">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;DealHelpers module&quot; @33 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="755.723333333333,503.64,143.696666666667,25.96" Label="DealHelpers module">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=&quot;LogInput module&quot; @35 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1129.905,503.64,127.333333333333,25.96" Label="LogInput module">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=AcesCount @36 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="501.191666666667,279.8,92.7600000000002,25.96" Label="AcesCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=AddCard @6 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="980.246666666667,335.76,82.6500000000001,25.96" Label="AddCard">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Card.__init__ @76 OverloadingParameters=[(Type=Card Name=card),(@58 Name=index),(@58 Name=deck),(@58 Name=value),(@72 Name=cardFace),(@58 Name=suit),(@72 Name=suitFace)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1280.27666666667,335.76,72.5900000000001,25.96" Label="__init__">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=CardsCounter @6 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="685.358333333333,335.76,108.426666666667,25.96" Label="CardsCounter">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Count @6 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1371.51833333333,447.68,68.1066666666666,25.96" Label="Count">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=CountPercentageOfShoe @31 OverloadingParameters=[(Type=Shoe @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="163.455,391.72,166.233333333333,25.96" Label="CountPercentageOfShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Dealer @36 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="785.495,279.8,70.1533333333336,25.96" Label="Dealer">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=DealerLogic @36 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="949.396666666667,279.8,98.3499999999999,25.96" Label="DealerLogic">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=DupAlgorithm @36 OverloadingParameters=[@37,(@58 Name=dealerVisibleCardVal)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="817.935,167.88,111.273333333333,25.96" Label="DupAlgorithm">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=DuplicateActions @45 OverloadingParameters=[(@58 Name=duplicate),(@58 Name=dvcv)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1752.955,335.76,125.233333333333,25.96" Label="DuplicateActions">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=DuplicateActions @45 OverloadingParameters=[(@58 Name=hand),(@58 Name=dvcv)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1596.955,335.76,125.233333333334,25.96" Label="DuplicateActions">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=DuplicateActions @45 OverloadingParameters=[@37,(@58 Name=dvcv)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2040.955,335.76,125.233333333334,25.96" Label="DuplicateActions">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=FillShoe @12 OverloadingParameters=[@66,@59,(Type=Shoe @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="484.046666666667,391.72,77.05,25.96" Label="FillShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=GetCount @31 OverloadingParameters=[@59] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1100.23,447.68,86.6833333333334,25.96" Label="GetCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=HardActions @45 OverloadingParameters=[@37,(@58 Name=dvcv)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1909.05333333333,335.76,101.036666666667,25.96" Label="HardActions">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=InitializePlayers @12 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="830.286666666667,447.68,116.57,25.96" Label="InitializePlayers">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=InitializePlayers @12 OverloadingParameters=[@66,@59] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1861.28666666667,447.68,116.57,25.96" Label="InitializePlayers">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=LittleAcesCount @36 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="289.255,279.8,118.633333333333,25.96" Label="LittleAcesCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Log @4 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2454.69833333333,447.68,55.7466666666669,25.96" Label="Log">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Log.__init__ @4 OverloadingParameters=[(Type=Log Name=log),@66,@59,(@72 Name=msg)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1375.27666666667,279.8,72.5900000000001,25.96" Label="__init__">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=OtherCard @36 @38 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="960.006666666667,167.88,91.1300000000001,25.96" Label="OtherCard">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Player.__init__ @75 OverloadingParameters=[(Type=Player Name=player),(@72 Name=label),(@58 Name=index),(@58 Name=active)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1177.27666666667,335.76,72.5899999999999,25.96" Label="__init__">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=RegularLogic @36 OverloadingParameters=[(Type=NoneType Name=hand)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="707.4,223.84,104.343333333333,25.96" Label="RegularLogic">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Shoe @1 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="122.336666666667,447.68,62.4699999999998,25.96" Label="Shoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Shuffle @12 OverloadingParameters=[@66,@59,(Type=Shoe @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="591.246666666667,391.72,72.6500000000001,25.96" Label="Shuffle">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=SoftActions @45 OverloadingParameters=[@37,(@58 Name=dvcv)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1470.37333333333,335.76,96.3966666666665,25.96" Label="SoftActions">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=Test @12 @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="606.295,447.68,56.5533333333333,25.96" Label="Test">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=TotalCount @31 OverloadingParameters=[(Type=Shoe @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="359.905,391.72,93.3333333333334,25.96" Label="TotalCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=TotalCount @31 OverloadingParameters=[(Type=type @61)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="39.905,391.72,93.3333333333334,25.96" Label="TotalCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="(Name=dbWrite @68 OverloadingParameters=[(@72 Name=IResult),(@58 Name=Iteration),(@58 Name=Parent),(@58 Name=Algo),(@58 Name=Round),(@58 Name=Shoe),(@58 Name=Split),(@58 Name=Discarded),(@72 Name=Player),(@58 Name=Hand),(@58 Name=Card),(@58 Name=Score),(@72 Name=CardFace),(@72 Name=CardSuit),(@58 Name=CardValue),(@58 Name=CardIndex),(@72 Name=Result),(Type=float Name=ShoePercent),(@58 Name=IsHidden),(@58 Name=Count)] @2)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2048.195,391.72,78.7533333333331,25.96" Label="dbWrite">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@11" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1287.435,503.64,106.273333333333,25.96" Label="Main module">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@3" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="619.49,503.64,106.163333333333,25.96" Label="Shoe module">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@32" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="352.23,447.68,86.6833333333334,25.96" Label="GetCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@34" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1742.47833333333,447.68,88.1866666666667,25.96" Label="DealHand">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@39" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="656.063333333334,279.8,89.0166666666664,25.96" Label="Algorithm">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@40" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="951.765,55.96,109.613333333333,25.96" Label="BigAcesCount">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@41" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="565.935,223.84,111.273333333333,25.96" Label="DupAlgorithm">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@42" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="533.4,167.88,104.343333333333,25.96" Label="RegularLogic">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@44" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="407.886666666667,335.76,125.37,25.96" Label="StandardMethod">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@46" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1596.88666666667,391.72,125.37,25.96" Label="StandardMethod">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@47" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="833.803333333333,391.72,105.536666666667,25.96" Label="AnalyzeHand">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@48" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1145.88333333333,167.88,105.376666666667,25.96" Label="DoubleDown">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@49" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1037.41166666667,111.92,98.3199999999999,25.96" Label="HandleAces">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@5" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1423.85166666667,503.64,99.4400000000001,25.96" Label="Log module">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@50" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1115.44333333333,55.96,102.256666666667,25.96" Label="ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@52" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1606.80333333333,447.68,105.536666666667,25.96" Label="AnalyzeHand">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@53" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1908.44333333333,391.72,102.256666666667,25.96" Label="ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@54" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="93.4433333333332,335.76,102.256666666667,25.96" Label="ScoreKeeper">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@55" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1139.2,391.72,98.7433333333333,25.96" Label="OpenHands">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@56" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="977.55,447.68,92.0433333333335,25.96" Label="PlayRound">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@60" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1470.59333333333,447.68,105.956666666667,25.96" Label="InitializeShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@62" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="842.063333333334,223.84,89.0166666666667,25.96" Label="Algorithm">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@63" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="823.886666666667,335.76,125.37,25.96" Label="StandardMethod">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@64" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="962.063333333334,223.84,89.0166666666667,25.96" Label="Algorithm">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@65" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="668.4,167.88,104.343333333333,25.96" Label="RegularLogic">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@67" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="469.593333333333,447.68,105.956666666667,25.96" Label="InitializeShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@69" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2008.66,447.68,157.823333333333,25.96" Label="WriteOutputClearHand">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="271.495,55.96,70.1533333333336,25.96" Label="Dealer">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@70" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1217.55,447.68,92.0433333333333,25.96" Label="PlayRound">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@71" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1415.04666666667,391.72,77.0500000000002,25.96" Label="FillShoe">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@73" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1383.69833333333,335.76,55.7466666666669,25.96" Label="Log">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@74" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="1268.28666666667,391.72,116.57,25.96" Label="InitializePlayers">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@8" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="337.261666666667,111.92,134.62,25.96" Label="DealersVisibleCard">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="2379.47833333333,111.92,88.1866666666665,25.96" Label="DealHand">
+      <Category Ref="CallStackEntry" />
+    </Node>
+    <Node Id="BlackJackCardCounting\BlackJackCardCounting.pyproj" Category="CodeMap_Project" Bounds="0,615.56,142.943333333333,25.96" ErrorMessage="Unreferenced node detected:BlackJackCardCounting (BlackJackCardCounting\BlackJackCardCounting.pyproj)" IsUnreferenced="True" Label="BlackJackCardCounting" />
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="968.078333333333,559.6,92.9866666666667,25.96" ErrorMessage="Unreferenced node detected:External Code (ExternalCodeRootNode)" IsUnreferenced="True" Label="External Code">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@11" Target="(@57 @12 OverloadingParameters=[@66,@59,(Type=Shoe @61)] @2)" Category="CallStackDirectCall" Bounds="805.569091796875,475.121643066406,482.840209960938,29.3056030273438" />
+    <Link Source="@11" Target="(@57 @12 OverloadingParameters=[@66,@59,(Type=list @61)] @2)" Category="CallStackDirectCall" Bounds="320.141815185547,475.369201660156,973.974029541016,28.2708129882813" />
+    <Link Source="@11" Target="(Name=Count @6 @2)" Category="CallStackDirectCall" Bounds="1355.64855957031,479.511962890625,28.0257568359375,24.1280517578125" />
+    <Link Source="@11" Target="(Name=GetCount @31 OverloadingParameters=[@59] @2)" Category="CallStackDirectCall" Bounds="1194.72241210938,475.189910888672,100.15478515625,28.4501037597656" />
+    <Link Source="@11" Target="(Name=InitializePlayers @12 @2)" Category="CallStackDirectCall" Bounds="955.067687988281,473.929626464844,332.551574707031,31.6752014160156" />
+    <Link Source="@11" Target="(Name=InitializePlayers @12 OverloadingParameters=[@66,@59] @2)" Category="CallStackDirectCall" Bounds="1392.81530761719,475.01708984375,462.806518554688,29.4873962402344" />
+    <Link Source="@11" Target="(Name=Test @12 @2)" Category="CallStackDirectCall" Bounds="670.832702636719,475.152709960938,618.309753417969,28.7799987792969" />
+    <Link Source="@11" Target="@32" Category="CallStackDirectCall" Bounds="442.272521972656,475.523468017578,850.218322753906,28.1165466308594" />
+    <Link Source="@11" Target="@34" Category="CallStackDirectCall" Bounds="1393.55615234375,474.127166748047,340.65478515625,31.5693054199219" />
+    <Link Source="@11" Target="@52" Category="CallStackDirectCall" Bounds="1393.70837402344,471.471862792969,204.230346679688,35.8267211914063" />
+    <Link Source="@11" Target="@56" Category="CallStackDirectCall" Bounds="1078.44458007813,471.023651123047,208.990478515625,36.4458618164063" />
+    <Link Source="@11" Target="@60" Category="CallStackDirectCall" Bounds="1383.01879882813,476.271820068359,89.4991455078125,27.3681945800781" />
+    <Link Source="@11" Target="@67" Category="CallStackDirectCall" Bounds="576.463684082031,475.271759033203,713.828430175781,28.3716430664063" />
+    <Link Source="@11" Target="@69" Category="CallStackDirectCall" Bounds="1391.56372070313,474.828399658203,621.99755859375,28.9361267089844" />
+    <Link Source="@11" Target="@70" Category="CallStackDirectCall" Bounds="1288.71240234375,478.931060791016,33.9990234375,24.7089538574219" />
+    <Link Source="@11" Target="@74" Category="CallStackDirectCall" Bounds="1332.00329589844,426.410919189453,8.568359375,77.2290954589844" />
+    <Link Source="@11" Target="@9" Category="CallStackDirectCall" Bounds="1386.62512207031,146.880004882813,1036.94665527344,356.760009765625" />
+    <Link Source="@3" Target="(Name=Shoe @1 @2)" Category="CallStackDirectCall" Bounds="193.391571044922,473.761352539063,426.098419189453,38.8353881835938" />
+    <Link Source="@32" Target="(Name=CountPercentageOfShoe @31 OverloadingParameters=[(Type=Shoe @61)] @2)" Category="CallStackDirectCall" Bounds="289.557800292969,420.844329833984,71.4530944824219,26.8356628417969" />
+    <Link Source="@32" Target="(Name=TotalCount @31 OverloadingParameters=[(Type=Shoe @61)] @2)" Category="CallStackDirectCall" Bounds="398.123138427734,426.511016845703,4.16116333007813,21.1689758300781" />
+    <Link Source="@32" Target="(Name=TotalCount @31 OverloadingParameters=[(Type=type @61)] @2)" Category="CallStackDirectCall" Bounds="142.089508056641,415.181213378906,210.140502929688,36.880859375" />
+    <Link Source="@34" Target="@53" Category="CallStackDirectCall" Bounds="1826.69921875,420.449920654297,84.1817626953125,27.2300720214844" />
+    <Link Source="@39" Target="(Name=RegularLogic @36 OverloadingParameters=[(Type=NoneType Name=hand)] @2)" Category="CallStackDirectCall" Bounds="714.256774902344,255.993515014648,25.0997924804688,23.8064727783203" />
+    <Link Source="@39" Target="@40" Category="CallStackDirectCall" Bounds="745.080017089844,90.9199981689453,326.794494628906,193.649856567383" />
+    <Link Source="@39" Target="@41" Category="CallStackDirectCall" Bounds="647.239990234375,255.002258300781,35.0075073242188,24.7977294921875" />
+    <Link Source="@39" Target="@42" Category="CallStackDirectCall" Bounds="543.991394042969,200.491928100586,113.236389160156,79.9351654052734" />
+    <Link Source="@41" Target="@42" Category="CallStackDirectCall" Bounds="598.791198730469,201.409027099609,14.4302368164063,22.4309692382813" />
+    <Link Source="@42" Target="@49" Category="CallStackDirectCall" Bounds="637.359069824219,137.675796508789,391.490783691406,31.7352600097656" />
+    <Link Source="@42" Target="@8" Category="CallStackDirectCall" Bounds="455.153289794922,140.538391113281,88.4351501464844,27.3416137695313" />
+    <Link Source="@44" Target="(Name=AcesCount @36 @38 @2)" Category="CallStackDirectCall" Bounds="488.431915283203,311.051086425781,33.9990539550781,24.7089233398438" />
+    <Link Source="@44" Target="(Name=LittleAcesCount @36 @38 @2)" Category="CallStackDirectCall" Bounds="385.050231933594,309.512298583984,57.2233581542969,26.2477111816406" />
+    <Link Source="@44" Target="@39" Category="CallStackDirectCall" Bounds="523.920471191406,305.708862304688,123.512573242188,30.0511474609375" />
+    <Link Source="@44" Target="@40" Category="CallStackDirectCall" Bounds="502.571655273438,76.0184631347656,440.248291015625,259.741546630859" />
+    <Link Source="@44" Target="@7" Category="CallStackDirectCall" Bounds="306.571655273438,90.9199981689453,154.489990234375,244.84001159668" />
+    <Link Source="@44" Target="@8" Category="CallStackDirectCall" Bounds="426.745086669922,143.700378417969,43.8265686035156,192.059631347656" />
+    <Link Source="@46" Target="(Name=DuplicateActions @45 OverloadingParameters=[(@58 Name=duplicate),(@58 Name=dvcv)] @2)" Category="CallStackDirectCall" Bounds="1695.75610351563,364.758850097656,75.15966796875,26.9611511230469" />
+    <Link Source="@46" Target="(Name=DuplicateActions @45 OverloadingParameters=[(@58 Name=hand),(@58 Name=dvcv)] @2)" Category="CallStackDirectCall" Bounds="1659.57165527344,370.720001220703,0,21" />
+    <Link Source="@46" Target="(Name=DuplicateActions @45 OverloadingParameters=[@37,(@58 Name=dvcv)] @2)" Category="CallStackDirectCall" Bounds="1722.17236328125,361.441040039063,310.228149414063,32.5726623535156" />
+    <Link Source="@46" Target="(Name=HardActions @45 OverloadingParameters=[@37,(@58 Name=dvcv)] @2)" Category="CallStackDirectCall" Bounds="1721.77917480469,359.813690185547,178.4267578125,33.2825317382813" />
+    <Link Source="@46" Target="(Name=SoftActions @45 OverloadingParameters=[@37,(@58 Name=dvcv)] @2)" Category="CallStackDirectCall" Bounds="1559.64208984375,365.040008544922,67.2244873046875,26.6799926757813" />
+    <Link Source="@46" Target="@73" Category="CallStackDirectCall" Bounds="1448.17993164063,357.968444824219,151.625244140625,33.7526550292969" />
+    <Link Source="@47" Target="(Name=AddCard @6 @38 @2)" Category="CallStackDirectCall" Bounds="917.885131835938,365.166320800781,64.05908203125,26.5536804199219" />
+    <Link Source="@47" Target="(Name=CardsCounter @6 @38 @2)" Category="CallStackDirectCall" Bounds="782.079650878906,364.921966552734,70.3951416015625,26.7980346679688" />
+    <Link Source="@47" Target="@44" Category="CallStackDirectCall" Bounds="542.176330566406,358.372192382813,291.627014160156,39.2294616699219" />
+    <Link Source="@47" Target="@48" Category="CallStackDirectCall" Bounds="939.340026855469,202.077209472656,249.891662597656,194.113220214844" />
+    <Link Source="@47" Target="@50" Category="CallStackDirectCall" Bounds="938.603698730469,90.9199981689453,227.967956542969,301.831344604492" />
+    <Link Source="@47" Target="@54" Category="CallStackDirectCall" Bounds="203.917633056641,361.985931396484,629.885711669922,38.9641723632813" />
+    <Link Source="@47" Target="@63" Category="CallStackDirectCall" Bounds="886.571655273438,370.720001220703,0,21" />
+    <Link Source="@47" Target="@7" Category="CallStackDirectCall" Bounds="260.392425537109,90.5732498168945,573.410919189453,310.233329772949" />
+    <Link Source="@47" Target="@8" Category="CallStackDirectCall" Bounds="272.390899658203,144.671096801758,561.412445068359,255.48356628418" />
+    <Link Source="@48" Target="@49" Category="CallStackDirectCall" Bounds="1120.60119628906,141.902618408203,51.991943359375,25.9773864746094" />
+    <Link Source="@48" Target="@50" Category="CallStackDirectCall" Bounds="1178.46179199219,89.7328109741211,20.10986328125,78.1471939086914" />
+    <Link Source="@49" Target="@40" Category="CallStackDirectCall" Bounds="1032.50256347656,87.0786895751953,35.512939453125,24.84130859375" />
+    <Link Source="@49" Target="@50" Category="CallStackDirectCall" Bounds="1105.12780761719,87.0786895751953,35.512939453125,24.84130859375" />
+    <Link Source="@5" Target="(Name=Log @4 @2)" Category="CallStackDirectCall" Bounds="1523.29162597656,473.844390869141,922.843872070313,41.0360412597656" />
+    <Link Source="@50" Target="(Name=&quot;CalculateHand in ScoreKeeper&quot; @6 @38 @2)" Category="CallStackDirectCall" Bounds="1166.57165527344,34.9599990844727,0,21" />
+    <Link Source="@50" Target="(Name=&quot;CalculateScore in ScoreKeeper&quot; @6 @38 @2)" Category="CallStackDirectCall" Bounds="1001.72888183594,28.1231689453125,114.897338867188,28.4497985839844" />
+    <Link Source="@52" Target="(@43 @45 OverloadingParameters=[@37,(Type=Player Name=dealer)] @2)" Category="CallStackDirectCall" Bounds="1695.75610351563,420.718872070313,75.15966796875,26.9611206054688" />
+    <Link Source="@52" Target="@46" Category="CallStackDirectCall" Bounds="1659.57165527344,426.679992675781,0,21" />
+    <Link Source="@53" Target="(Name=&quot;CalculateHand in ScoreKeeper&quot; @12 @38 @2)" Category="CallStackDirectCall" Bounds="2010.69995117188,363.202850341797,197.291015625,32.9564208984375" />
+    <Link Source="@54" Target="(Name=&quot;CalculateHand in ScoreKeeper&quot; @6 OverloadingParameters=[(Type=NoneType Name=hand)] @2)" Category="CallStackDirectCall" Bounds="114.261650085449,312.651733398438,19.4083023071289,23.1082763671875" />
+    <Link Source="@56" Target="@47" Category="CallStackDirectCall" Bounds="926.680725097656,421.083251953125,65.1135864257813,26.5967407226563" />
+    <Link Source="@56" Target="@55" Category="CallStackDirectCall" Bounds="1061.84362792969,420.570648193359,79.932861328125,27.1093444824219" />
+    <Link Source="@60" Target="@71" Category="CallStackDirectCall" Bounds="1476.83801269531,423.2998046875,30.4970703125,24.3801879882813" />
+    <Link Source="@60" Target="@73" Category="CallStackDirectCall" Bounds="1445.35180664063,365.617980957031,78.2198486328125,82.06201171875" />
+    <Link Source="@62" Target="@42" Category="CallStackDirectCall" Bounds="646.59375,192.126525878906,195.469604492188,36.2495422363281" />
+    <Link Source="@63" Target="(Name=Dealer @36 @38 @2)" Category="CallStackDirectCall" Bounds="842.7451171875,311.580383300781,28.5177612304688,24.1796264648438" />
+    <Link Source="@63" Target="(Name=DealerLogic @36 @38 @2)" Category="CallStackDirectCall" Bounds="912.550231933594,309.782623291016,51.9918823242188,25.9773864746094" />
+    <Link Source="@63" Target="@39" Category="CallStackDirectCall" Bounds="751.727722167969,308.170806884766,91.7009887695313,27.5892028808594" />
+    <Link Source="@63" Target="@62" Category="CallStackDirectCall" Bounds="886.571655273438,258.799987792969,0,76.9600219726563" />
+    <Link Source="@63" Target="@64" Category="CallStackDirectCall" Bounds="893.994140625,254.629425048828,84.5712890625,81.1305847167969" />
+    <Link Source="@64" Target="(Name=DupAlgorithm @36 OverloadingParameters=[@37,(@58 Name=dealerVisibleCardVal)] @2)" Category="CallStackDirectCall" Bounds="912.716796875,197.33039855957,63.0053100585938,26.5095977783203" />
+    <Link Source="@64" Target="(Name=OtherCard @36 @38 @2)" Category="CallStackDirectCall" Bounds="1005.96441650391,202.838562011719,0.37530517578125,21.0014343261719" />
+    <Link Source="@64" Target="@65" Category="CallStackDirectCall" Bounds="781.567260742188,192.794662475586,180.49609375,35.316650390625" />
+    <Link Source="@65" Target="@8" Category="CallStackDirectCall" Bounds="480.121307373047,138.27897644043,188.278717041016,33.3420104980469" />
+    <Link Source="@67" Target="(Name=FillShoe @12 OverloadingParameters=[@66,@59,(Type=Shoe @61)] @2)" Category="CallStackDirectCall" Bounds="522.571655273438,426.679992675781,0,21" />
+    <Link Source="@67" Target="(Name=Shuffle @12 OverloadingParameters=[@66,@59,(Type=Shoe @61)] @2)" Category="CallStackDirectCall" Bounds="546.926574707031,421.912933349609,48.3477783203125,25.7670593261719" />
+    <Link Source="@69" Target="(Name=dbWrite @68 OverloadingParameters=[(@72 Name=IResult),(@58 Name=Iteration),(@58 Name=Parent),(@58 Name=Algo),(@58 Name=Round),(@58 Name=Shoe),(@58 Name=Split),(@58 Name=Discarded),(@72 Name=Player),(@58 Name=Hand),(@58 Name=Card),(@58 Name=Score),(@72 Name=CardFace),(@72 Name=CardSuit),(@58 Name=CardValue),(@58 Name=CardIndex),(@72 Name=Result),(Type=float Name=ShoePercent),(@58 Name=IsHidden),(@58 Name=Count)] @2)" Category="CallStackDirectCall" Bounds="2087.57177734375,426.679992675781,0,21" />
+    <Link Source="@70" Target="@47" Category="CallStackDirectCall" Bounds="948.264038085938,412.766326904297,269.286010742188,37.9476928710938" />
+    <Link Source="@70" Target="@55" Category="CallStackDirectCall" Bounds="1213.18139648438,423.062133789063,32.993896484375,24.6178588867188" />
+    <Link Source="@71" Target="(Name=Card.__init__ @76 OverloadingParameters=[(Type=Card Name=card),(@58 Name=index),(@58 Name=deck),(@58 Name=value),(@72 Name=cardFace),(@58 Name=suit),(@72 Name=suitFace)] @2)" Category="CallStackDirectCall" Bounds="1356.68078613281,365.123229980469,65.113525390625,26.5967712402344" />
+    <Link Source="@71" Target="@73" Category="CallStackDirectCall" Bounds="1426.71606445313,368.918151855469,17.1136474609375,22.8018493652344" />
+    <Link Source="@73" Target="(Name=Log.__init__ @4 OverloadingParameters=[(Type=Log Name=log),@66,@59,(@72 Name=msg)] @2)" Category="CallStackDirectCall" Bounds="1411.57165527344,314.760009765625,0,21" />
+    <Link Source="@74" Target="(Name=Player.__init__ @75 OverloadingParameters=[(Type=Player Name=player),(@72 Name=label),(@58 Name=index),(@58 Name=active)] @2)" Category="CallStackDirectCall" Bounds="1247.84741210938,365.714050292969,52.5137939453125,26.0059509277344" />
+    <Link Source="@74" Target="@73" Category="CallStackDirectCall" Bounds="1346.28747558594,366.6689453125,38.0511474609375,25.0510559082031" />
+    <Link Source="@8" Target="@7" Category="CallStackDirectCall" Bounds="337.118469238281,86.3828430175781,44.7219543457031,25.5371551513672" />
+    <Link Source="@9" Target="@50" Category="CallStackDirectCall" Bounds="1226.69104003906,71.6164398193359,1152.78723144531,51.3205795288086" />
+    <Link Source="ExternalCodeRootNode" Target="(Name=&quot;CountingHelpers module&quot; @31 @2)" Category="CallStackIndirectCall" Bounds="1014.57165527344,538.599975585938,0,21" />
+    <Link Source="ExternalCodeRootNode" Target="(Name=&quot;DealHelpers module&quot; @33 @2)" Category="CallStackIndirectCall" Bounds="879.568786621094,532.180236816406,91.6279907226563,27.4197387695313" />
+    <Link Source="ExternalCodeRootNode" Target="(Name=&quot;LogInput module&quot; @35 @2)" Category="CallStackIndirectCall" Bounds="1056.09094238281,532.285461425781,87.3714599609375,27.3145141601563" />
+    <Link Source="ExternalCodeRootNode" Target="@11" Category="CallStackIndirectCall" Bounds="1061.06494140625,527.263916015625,217.499755859375,37.335205078125" />
+    <Link Source="ExternalCodeRootNode" Target="@3" Category="CallStackIndirectCall" Bounds="734.527587890625,527.343505859375,233.550720214844,37.7874755859375" />
+    <Link Source="ExternalCodeRootNode" Target="@5" Category="CallStackIndirectCall" Bounds="1061.06494140625,529.287780761719,354.150390625,38.6743774414063" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="Call Stack direct call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack direct call" OutgoingActionLabel="Call Stack direct call" />
+    <Category Id="CallStackEntry" Label="Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Call Stack Entry" />
+    <Category Id="CallStackIndirectCall" Label="Call Stack indirect call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack indirect call" OutgoingActionLabel="Call Stack indirect call" />
+    <Category Id="CodeMap_Project" Label="Non Assembly Project" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Non Assembly Projects" />
+    <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="Unresolved Method" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="Unresolved Method" />
+    <Category Id="ExternalCallStackEntry" Label="External Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="External Call Stack Entry" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="ErrorMessage" Label="Error" Description="Error" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsUnreferenced" Label="Unreferenced" Description="Node has no links pointing to it from other nodes in the graph" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="ToolTip" DataType="System.String" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="IsUnresolved" Label="Is Unresolved" ValueType="System.String" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=Shoe" />
+    <Alias n="2" Id="IsUnresolved=True" />
+    <Alias n="3" Id="(Name=&quot;Shoe module&quot; @1 @2)" />
+    <Alias n="4" Uri="Assembly=Log" />
+    <Alias n="5" Id="(Name=&quot;Log module&quot; @4 @2)" />
+    <Alias n="6" Uri="Assembly=Deal" />
+    <Alias n="7" Id="(Name=Dealer @6 @2)" />
+    <Alias n="8" Id="(Name=DealersVisibleCard @6 @2)" />
+    <Alias n="9" Id="(Name=DealHand @6 @2)" />
+    <Alias n="10" Uri="Assembly=Main" />
+    <Alias n="11" Id="(Name=&quot;Main module&quot; @10 @2)" />
+    <Alias n="12" Uri="Assembly=TableHelpers" />
+    <Alias n="31" Uri="Assembly=CountingHelpers" />
+    <Alias n="32" Id="(Name=GetCount @31 @2)" />
+    <Alias n="33" Uri="Assembly=DealHelpers" />
+    <Alias n="34" Id="(Name=DealHand @33 @2)" />
+    <Alias n="35" Uri="Assembly=LogInput" />
+    <Alias n="36" Uri="Assembly=Logic" />
+    <Alias n="37" Id="(Type=Hand Name=hand)" />
+    <Alias n="38" Id="OverloadingParameters=[@37]" />
+    <Alias n="39" Id="(Name=Algorithm @36 @38 @2)" />
+    <Alias n="40" Id="(Name=BigAcesCount @36 @38 @2)" />
+    <Alias n="41" Id="(Name=DupAlgorithm @36 @38 @2)" />
+    <Alias n="42" Id="(Name=RegularLogic @36 @38 @2)" />
+    <Alias n="43" Id="Name=StandardMethod" />
+    <Alias n="44" Id="(@43 @36 @38 @2)" />
+    <Alias n="45" Uri="Assembly=Standard" />
+    <Alias n="46" Id="(@43 @45 @38 @2)" />
+    <Alias n="47" Id="(Name=AnalyzeHand @6 @38 @2)" />
+    <Alias n="48" Id="(Name=DoubleDown @6 @38 @2)" />
+    <Alias n="49" Id="(Name=HandleAces @6 @38 @2)" />
+    <Alias n="50" Id="(Name=ScoreKeeper @6 @38 @2)" />
+    <Alias n="51" Uri="Assembly=Analysis" />
+    <Alias n="52" Id="(Name=AnalyzeHand @51 @38 @2)" />
+    <Alias n="53" Id="(Name=ScoreKeeper @12 @38 @2)" />
+    <Alias n="54" Id="(Name=ScoreKeeper @6 OverloadingParameters=[(Type=NoneType Name=hand)] @2)" />
+    <Alias n="55" Id="(Name=OpenHands @6 OverloadingParameters=[(Type=Player Name=player)] @2)" />
+    <Alias n="56" Id="(Name=PlayRound @6 OverloadingParameters=[(Type=Player Name=player)] @2)" />
+    <Alias n="57" Id="Name=InitializeShoe" />
+    <Alias n="58" Id="Type=int" />
+    <Alias n="59" Id="(@58 Name=round)" />
+    <Alias n="60" Id="(@57 @12 OverloadingParameters=[@59] @2)" />
+    <Alias n="61" Id="Name=shoe" />
+    <Alias n="62" Id="(Name=Algorithm @36 OverloadingParameters=[@37,(Type=Player Name=dealer)] @2)" />
+    <Alias n="63" Id="(@43 @36 OverloadingParameters=[@37,(Type=Player Name=dealer)] @2)" />
+    <Alias n="64" Id="(Name=Algorithm @36 OverloadingParameters=[@37,(@58 Name=dealerVisibleCardVal)] @2)" />
+    <Alias n="65" Id="(Name=RegularLogic @36 OverloadingParameters=[@37,(@58 Name=dealerVisibleCardVal)] @2)" />
+    <Alias n="66" Id="(@58 Name=id)" />
+    <Alias n="67" Id="(@57 @12 OverloadingParameters=[@66,@59] @2)" />
+    <Alias n="68" Uri="Assembly=dbBlackJack" />
+    <Alias n="69" Id="(Name=WriteOutputClearHand @68 OverloadingParameters=[(Type=Player Name=player),@59] @2)" />
+    <Alias n="70" Id="(Name=PlayRound @6 OverloadingParameters=[(Type=Player Name=player),@59] @2)" />
+    <Alias n="71" Id="(Name=FillShoe @12 OverloadingParameters=[@59,(Type=Shoe @61)] @2)" />
+    <Alias n="72" Id="Type=str" />
+    <Alias n="73" Id="(Name=Log @35 OverloadingParameters=[@66,@59,(@72 Name=log)] @2)" />
+    <Alias n="74" Id="(Name=InitializePlayers @12 OverloadingParameters=[@66,@59,(Type=module @61)] @2)" />
+    <Alias n="75" Uri="Assembly=Players" />
+    <Alias n="76" Uri="Assembly=Cards" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Call Stack (no source)" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('CodeSchema_SourceLocation')" />
+      <Setter Property="Background" Value="Transparent" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FF0072C6" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Call Stack (source)" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External Call Stack" ValueLabel="True">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Unreferenced" ToolTip="Node has no links pointing to it from other nodes in the graph" ValueLabel="True">
+      <Condition Expression="IsUnreferenced" />
+      <Setter Property="Background" Value="Purple" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Comment" ValueLabel="Has comment">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+</DirectedGraph>

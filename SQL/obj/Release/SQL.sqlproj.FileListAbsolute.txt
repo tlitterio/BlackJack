@@ -1,0 +1,5 @@
+C:\Users\tony\OneDrive\Repos\blackjack\SQL\bin\Release\SQL.dacpac
+C:\Users\tony\OneDrive\Repos\blackjack\SQL\bin\Release\SQL.dll
+C:\Users\tony\OneDrive\Repos\blackjack\SQL\bin\Release\SQL.pdb
+C:\Users\tony\OneDrive\Repos\blackjack\SQL\obj\Release\SQL.dll
+C:\Users\tony\OneDrive\Repos\blackjack\SQL\obj\Release\SQL.pdb
